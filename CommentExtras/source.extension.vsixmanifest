@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="CommentExtras.Company.0a7f865a-c07f-4c35-8b7b-ea2a0b8306f9" Version="1.0" Language="en-US" Publisher="Daniel" />
+    <Identity Id="CommentExtras.Company.0a7f865a-c07f-4c35-8b7b-ea2a0b8306f9" Version="1.0.0" Language="en-US" Publisher="Daniel" />
     <DisplayName>CommentExtras</DisplayName>
     <Description xml:space="preserve">A small extension to automatically add an asterisk to new lines when making mutli-line comments.</Description>
   </Metadata>
